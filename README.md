@@ -1,7 +1,7 @@
 # Z-Box-Presentation
 
 ### Poster
-[Z-Box Poster - VSS.pdf](https://docs.google.com/viewer?url=${https://imnotamember.github.io/Z-Box-Presentation/Z-Box%20Poster%20-%20VSS.pdf})
+[Z-Box Poster - VSS.pdf](https://imnotamember.github.io/Z-Box-Presentation/Z-Box%20Poster%20-%20VSS.pdf)
 
 ### Videos
 [Orb - 100 Particles - Leftward Motion](https://unl.box.com/s/i5bh78ymu636m9yykkzwgxtqjzfyg8j8)
