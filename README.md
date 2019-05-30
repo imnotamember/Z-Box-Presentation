@@ -16,3 +16,6 @@
 
 
 #### [Home](http://imnotamember.github.io/)
+
+If you have questions, don't hesitate to contact me at <joshua.e.zosky@gmail.com>.
+Thanks!
