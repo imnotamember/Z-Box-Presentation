@@ -23,11 +23,11 @@ _All Videos Originally Created by Joshua Zosky, see license information [at end 
 
 #### Psychonomics Annual Meeting - November, 2019
 
-[![poster 1][poster1]](https://imnotamember.github.io/Z-Box-Presentation/Z-Box%20Poster%20-%20Psychonomics.pdf)
+[![poster 1][poster1]](https://imnotamember.github.io/Z-Box-Presentation/_includes/Z-Box%20Poster%20-%20Psychonomics.pdf)
 
 #### Vision Sciences Society Annual Meeting - May, 2019
 
-[![poster 2][poster2]](https://imnotamember.github.io/Z-Box-Presentation/Z-Box%20Poster%20-%20VSS.pdf)
+[![poster 2][poster2]](https://imnotamember.github.io/Z-Box-Presentation/_includes/Z-Box%20Poster%20-%20VSS.pdf)
 
 ### Videos
 
