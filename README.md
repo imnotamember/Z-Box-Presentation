@@ -1,10 +1,8 @@
 ---
-layout: "page"
-title: "Z-Box Illusion - Presentation Page"
-permalink: "/Z-Box-Presentation/"
+layout: page
+title: Z-Box Illusion - Presentation Page
+permalink: /Z-Box-Presentation/
 subtitle: "Welcome to the resources page for presentations on the Z-Box Illusion"
-icon: fa-book
-order: 5
 video_demo: yxlzs4phgv829cf087hbirfc7nhdboyb
 video_orb_100: am0dn6jdhgwpdclmrtlfjfkdjs24stwc
 video_orb_box_100_congruent: qzk0lsgvhs5bnrf3i7a6hid5iphek66r
