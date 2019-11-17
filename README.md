@@ -16,13 +16,11 @@ _All Videos Originally Created by Joshua Zosky, see license information [at end 
 
 ### Posters
 
-#### Psychonomics Annual Meeting - November, 2019
+#### [Psychonomics Annual Meeting - November, 2019](https://imnotamember.github.io/Z-Box-Presentation/_includes/Z-Box%20Poster%20-%20Psychonomics.pdf)
+![Psychonomics 2019 Poster Preview](https://imnotamember.github.io/Z-Box-Presentation/_includes/Z-Box%20Poster%20-%20Psychonomics.png)
 
-[![poster 1][poster1]](https://imnotamember.github.io/Z-Box-Presentation/_includes/Z-Box%20Poster%20-%20Psychonomics.pdf)
-
-#### Vision Sciences Society Annual Meeting - May, 2019
-
-[![poster 2][poster2]](https://imnotamember.github.io/Z-Box-Presentation/_includes/Z-Box%20Poster%20-%20VSS.pdf)
+#### [Vision Sciences Society Annual Meeting - May, 2019](https://imnotamember.github.io/Z-Box-Presentation/_includes/Z-Box%20Poster%20-%20VSS.pdf)
+![Psychonomics 2019 Poster Preview](https://imnotamember.github.io/Z-Box-Presentation/_includes/Z-Box%20Poster%20-%20VSS.png)
 
 ### Videos
 
@@ -66,6 +64,3 @@ Based on your perception of which side is the orb's front, each presentation cou
 <br />
 <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/MovingImage" property="dct:title" rel="dct:type">The Z-Box</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://imnotamember.github.io/opticalillusionvideos.html" property="cc:attributionName" rel="cc:attributionURL">Joshua Zosky</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://imnotamember.github.io/opticalillusionvideos.html" rel="dct:source">http://imnotamember.github.io/opticalillusionvideos.html</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="http://imnotamember.github.io/opticalillusionvideos.html" rel="cc:morePermissions">http://imnotamember.github.io/opticalillusionvideos.html</a>.
 </section>
-
-[poster1]: Z-Box%20Poster%20-%20Psychonomics.jpg "Psychonomics 2019"
-[poster2]: Z-Box%20Poster%20-%20VSS.jpg "VSS 2019"
